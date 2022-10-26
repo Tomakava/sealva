@@ -2,22 +2,22 @@
   "lastPublished":1666820616,
   "sksInfoVersion":1,
   "testca": {
-    "ksType":"PKCS12",
+    "ksType":"testca",
     "lastupdate":1666820616,
     "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.p12"
   },
   "testds": {
-    "ksType":"PKCS12",
+    "ksType":"testds",
     "lastupdate":1666820616,
     "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.p12"
   },
   "wirkca": {
-    "ksType":"PKCS12",
+    "ksType":"wirkca",
     "lastupdate":1666820616,
     "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.p12"
   },
   "wirkds": {
-    "ksType":"PKCS12",
+    "ksType":"wirkds",
     "lastupdate":1666820616,
     "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.p12"
   }
