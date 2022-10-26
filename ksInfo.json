@@ -4,21 +4,21 @@
   "testca": {
     "ksType":"PKCS12",
     "lastupdate":1666820616,
-    "url":"https://changeme"
+    "url":"keystore.p12"
   },
   "testds": {
     "ksType":"PKCS12",
     "lastupdate":1666820616,
-    "url":"https://changeme"
+    "url":"keystore.p12"
   },
   "wirkca": {
     "ksType":"PKCS12",
     "lastupdate":1666820616,
-    "url":"https://changeme"
+    "url":"keystore.p12"
   },
   "wirkds": {
     "ksType":"PKCS12",
     "lastupdate":1666820616,
-    "url":"https://changeme"
+    "url":"keystore.p12"
   }
 }
