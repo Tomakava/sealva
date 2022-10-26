@@ -1,8 +1,24 @@
 {
   "lastPublished":1666820616,
   "sksInfoVersion":1,
-  "testca": {},
-  "testds": {},
-  "wirkca": {},
-  "wirkds": {}
+  "testca": {
+    "ksType":"",
+    "lastupdate":1666820616,
+    "url":"https://changeme"
+  },
+  "testds": {
+    "ksType":"",
+    "lastupdate":1666820616,
+    "url":"https://changeme"
+  },
+  "wirkca": {
+    "ksType":"",
+    "lastupdate":1666820616,
+    "url":"https://changeme"
+  },
+  "wirkds": {
+    "ksType":"",
+    "lastupdate":1666820616,
+    "url":"https://changeme"
+  }
 }
