@@ -2,22 +2,22 @@
   "lastPublished":1666820616,
   "sksInfoVersion":1,
   "testca": {
-    "ksType":"",
+    "ksType":"PKCS12",
     "lastupdate":1666820616,
     "url":"https://changeme"
   },
   "testds": {
-    "ksType":"",
+    "ksType":"PKCS12",
     "lastupdate":1666820616,
     "url":"https://changeme"
   },
   "wirkca": {
-    "ksType":"",
+    "ksType":"PKCS12",
     "lastupdate":1666820616,
     "url":"https://changeme"
   },
   "wirkds": {
-    "ksType":"",
+    "ksType":"PKCS12",
     "lastupdate":1666820616,
     "url":"https://changeme"
   }
