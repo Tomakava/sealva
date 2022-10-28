@@ -1,24 +1,24 @@
 {
-  "lastPublished":1666820616,
+  "lastPublished":1666964494,
   "sksInfoVersion":1,
   "testca": {
     "ksType":"testca",
-    "lastupdate":1666820616,
-    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.bks"
+    "lastupdate":1666964494,
+    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore-testca.bks"
   },
   "testds": {
     "ksType":"testds",
-    "lastupdate":1666820616,
-    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.bks"
+    "lastupdate":1666964494,
+    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore-testds.bks"
   },
   "wirkca": {
     "ksType":"wirkca",
-    "lastupdate":1666820616,
-    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.bks"
+    "lastupdate":1666964494,
+    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore-wirkca.bks"
   },
   "wirkds": {
     "ksType":"wirkds",
-    "lastupdate":1666820616,
-    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore.bks"
+    "lastupdate":1666964494,
+    "url":"https://raw.githubusercontent.com/Tomakava/sealva/main/keystore-wirkds.bks"
   }
 }
